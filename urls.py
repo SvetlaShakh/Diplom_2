@@ -1,0 +1,6 @@
+BASE_URL = 'https://stellarburgers.nomoreparties.site/'
+REGISTER_USER = 'api/auth/register'
+LOGIN_USER = 'api/auth/login'
+DATA_USER = 'api/auth/user'
+ORDER = 'api/orders'
+INGREDIENTS = 'api/ingredients'
